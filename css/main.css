@@ -3,7 +3,7 @@ GENERAL
 ****************************/
 body{
   background-color: moccasin;
-  color: moccasin;
+  color: #FF6600;
   /*#FA9AA2;*/
   font-family:'Open Sans', sans-serif;
 }
@@ -91,7 +91,7 @@ nav a, nav a:visited {
 }
 
 nav a.selected, nav a:hover {
-  color: turquoise;
+  color: paleturquoise;
 /*    #79B4F4;*/
 }
 
@@ -125,9 +125,9 @@ PAGE: PORTFOLIO
   float: left;
   width: 45%;
   margin: 2.5%;
-  background-color: turquoise;
+  background-color: paleturquoise;
 /*    #33f2ff;*/
-  color: moccasin;  
+  color: #FF6600;  
  /* #F97687;*/
 }
 
