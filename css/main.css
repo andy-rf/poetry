@@ -3,7 +3,8 @@ GENERAL
 ****************************/
 body{
   background-color: moccasin;
-  color: #FA9AA2;
+  color: moccasin;
+  /*#FA9AA2;*/
   font-family:'Open Sans', sans-serif;
 }
 
@@ -126,7 +127,8 @@ PAGE: PORTFOLIO
   margin: 2.5%;
   background-color: turquoise;
 /*    #33f2ff;*/
-  color: #F97687;
+  color: moccasin;  
+ /* #F97687;*/
 }
 
 #gallery li a p {
