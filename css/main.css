@@ -3,7 +3,7 @@ GENERAL
 ****************************/
 body{
   background-color: moccasin;
-  color: #FF6600;
+  color: #3C0068;/*colour of text*/
   /*#FA9AA2;*/
   font-family:'Open Sans', sans-serif;
 }
@@ -57,7 +57,7 @@ h3{
 
 header {
   background: #E69ED8;
-  border-color: #FEDBF7;
+  border-color: #E69ED8;
 }
 
 h1,h2 {
@@ -92,7 +92,6 @@ nav a, nav a:visited {
 
 nav a.selected, nav a:hover {
   color: paleturquoise;
-/*    #79B4F4;*/
 }
 
 /****************************
@@ -103,7 +102,7 @@ footer{
   text-align: center;
   clear: both;
   padding-top: 50px;
-  color: #800000;
+  color: #3C0068; /*colour of text*/
 }
 
 .social-icon{
@@ -126,16 +125,15 @@ PAGE: PORTFOLIO
   width: 45%;
   margin: 2.5%;
   background-color: paleturquoise;
-/*    #33f2ff;*/
-  color: #FF6600;  
- /* #F97687;*/
+/*#FEDBF7;*/
+  color: #3C0068;  /*colour of text*/
 }
 
 #gallery li a p {
   margin: 0;  /*padding is prefered to margins cause margins tend to push things to where they shouldn't be*/
   padding: 5%;
   font-size:0.75em;
-  color: #800000;
+  color: #3C0068; /*colour of text*/
 }
 
 /****************************
